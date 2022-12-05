@@ -146,8 +146,8 @@ body {
           color: #FB6D3A;
           margin-bottom: 10px;
         }
-         /*sidebar styles*/
-         .sidebar {
+          /*sidebar styles*/
+          .sidebar {
           background-color: #1e2939;
           padding-top: 40px;
           width: 370;
@@ -163,10 +163,10 @@ body {
         .soft-skills,
         .games,
         .Other-Positions {
-        margin-left: 40px;
+          margin-left: 40px;
         }
-         .contacts {
-           margin-bottom: 50px;
+        .contacts {
+          margin-bottom: 50px;
         }
         .sidebar-title {
           color: #ffffff;

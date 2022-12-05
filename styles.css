@@ -214,30 +214,37 @@ body {
       color: #fff;
       padding: 0;
       margin-left: 25px;
-     }
-       .soft-skils-list {
-       color: #fff;
-       padding: 0;
-       margin-left: 25px;
+    }
+    .game-link{
+      color: #fff;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 14px;
+      line-height: 24px;
+    }
+    .soft-skils-list {
+        color: #fff;
+        padding: 0;
+        margin-left: 25px;
       }
         
       .games-item {
         color: #fb6d3a;
       }
 
-       .games-link {
-         color: #fff;
-         font-style: normal;
-         font-weight: normal;
-         font-size: 14px;
-         line-height: 24px;
-   }
+      .games-link {
+          color: #fff;
+          font-style: normal;
+          font-weight: normal;
+          font-size: 14px;
+          line-height: 24px;
+      }
       .soft-skills-item {
-         color: #fb6d3a;
+          color: #fb6d3a;
       }
         
     .soft-skills-text {
-       color: #fff;
+      color: #fff;
       font-style: normal;
       font-weight: normal;
       font-size: 14px;

@@ -160,8 +160,9 @@ body {
         
         .contacts,
         .languages,
+        .soft-skills,
         .games,
-        .soft-skills {
+        .Other-Positions {
         margin-left: 40px;
         }
          .contacts {
@@ -215,7 +216,7 @@ body {
       padding: 0;
       margin-left: 25px;
     }
-    .game-type{
+    .games-type{
       color: #fff;
       font-style: normal;
       font-weight: normal;
@@ -250,3 +251,20 @@ body {
       font-size: 14px;
       line-height: 24px;
     }
+    .Other-Positions-list {
+      color: #fff;
+      padding: 0;
+      margin-left: 25px;
+    }
+    
+    .Other-Positions-item {
+      color: #fb6d3a;
+    }
+    
+    .Other-Positions-text {
+      color: #fff;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 14px;
+      line-height: 24px;
+      }

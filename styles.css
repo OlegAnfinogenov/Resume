@@ -160,6 +160,7 @@ body {
         
         .contacts,
         .languages,
+        .hard-skills,
         .soft-skills,
         .games,
         .Other-Positions {
@@ -211,6 +212,38 @@ body {
       font-size: 14px;
       line-height: 24px;
     }
+    .hard-skils-list {
+      color: #fff;
+      padding: 0;
+      margin-left: 25px;
+    }
+    .hard-skills-item {
+        color: #fb6d3a;
+    }
+      
+  .hard-skills-text {
+    color: #fff;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+  }
+    .soft-skils-list {
+        color: #fff;
+        padding: 0;
+        margin-left: 25px;
+      }
+      .soft-skills-item {
+          color: #fb6d3a;
+      }
+        
+    .soft-skills-text {
+      color: #fff;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 14px;
+      line-height: 24px;
+    }
     .games-list {
       color: #fff;
       padding: 0;
@@ -223,33 +256,16 @@ body {
       font-size: 14px;
       line-height: 24px;
     }
-    .soft-skils-list {
-        color: #fff;
-        padding: 0;
-        margin-left: 25px;
-      }
-        
-      .games-item {
-        color: #fb6d3a;
-      }
+    .games-item {
+      color: #fb6d3a;
+    }
 
-      .games-link {
-          color: #fff;
-          font-style: normal;
-          font-weight: normal;
-          font-size: 14px;
-          line-height: 24px;
-      }
-      .soft-skills-item {
-          color: #fb6d3a;
-      }
-        
-    .soft-skills-text {
-      color: #fff;
-      font-style: normal;
-      font-weight: normal;
-      font-size: 14px;
-      line-height: 24px;
+    .games-link {
+        color: #fff;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 24px;
     }
     .Other-Positions-list {
       color: #fff;
